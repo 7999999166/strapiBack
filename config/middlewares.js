@@ -22,7 +22,7 @@ module.exports = [
     config: {
       enabled: true,
       headers: '*',
-      origin: ['http://localhost:5173','http://localhost:1337']
+      origin: ['http://localhost:5173','http://localhost:1337','https://accessible-approval-ce70603f49.strapiapp.com']
     }
   },
   'strapi::query',
