@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "semi_raw_materials",
+  "info": {
+    "singularName": "semi-raw-material",
+    "pluralName": "semi-raw-materials",
+    "displayName": "SemiRawMaterial"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Width": {
+      "type": "decimal"
+    },
+    "Length": {
+      "type": "decimal"
+    },
+    "Thickness": {
+      "type": "decimal"
+    }
+  }
+}
